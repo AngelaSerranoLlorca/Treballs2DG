@@ -6,3 +6,4 @@ Llistat de treballs Sistemes Representació Avançada
 * [maquetacion](https://angelaserranollorca.github.io/maquetacion/)
 * [tarjetas](https://angelaserranollorca.github.io/tarjetas/)
 * [grid](https://angelaserranollorca.github.io/grid/)
+* [landingpage](https://angelaserranollorca.github.io/landingpage/)

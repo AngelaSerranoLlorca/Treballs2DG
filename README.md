@@ -8,3 +8,4 @@ Llistat de treballs Sistemes Representació Avançada
 * [grid](https://angelaserranollorca.github.io/grid/)
 * [landingpage](https://angelaserranollorca.github.io/landingpage/)
 * [mondrian](https://angelaserranollorca.github.io/mondrian/)
+* [minimalissimo](https://angelaserranollorca.github.io/minimalissimo/)
